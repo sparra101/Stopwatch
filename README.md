@@ -5,8 +5,7 @@
 <br>
 <b>Example screenshots of our completed Stopwatch app.</b><br><br>
 <b>Stopwatch app start screen,</b>&nbsp;&nbsp;:octocat:<br><br>
-![Alt text] (https://github.com/sparra101/Stopwatch/blob/master/screenshots/start1.png
-"Start Screen")
+![Alt text] (https://github.com/sparra101/Stopwatch/blob/master/Screenshots/start1.PNG "Start Screen")
 <br><br>
 <b>Implicit Intent Screen Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
 ![Alt]
