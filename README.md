@@ -9,7 +9,6 @@
 <br><br>
 <b>Implicit Intent Screen Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
 ![Alt]
-text] (https://github.com/sparra101/Stopwatch/blob/master/screenshots/start2.png
-"Implicit Intent Screen")
+text] (https://github.com/sparra101/Stopwatch/blob/master/Screenshots/start2.PNG "Implicit Intent Screen")
 <br><br>
 
